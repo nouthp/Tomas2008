@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Commit for master
+=======
+there is some changes for testing second branch
+>>>>>>> testing_second
